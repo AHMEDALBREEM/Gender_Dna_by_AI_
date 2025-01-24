@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage
 To run the script, execute the following command:
 ```
-python a.py
+python main.py
 ```
 
 ## Example
