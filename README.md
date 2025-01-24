@@ -2,6 +2,7 @@
 
 ## Description
 its right now depening on data and the input is applied on the data of dna.fasta (you can find dataset free online and make sure to clean it also do some search and improve the code condition and certina always (^0^))
+
 This project processes DNA sequences from FASTA files, converting them to RNA and then to protein sequences. It also checks for genetic variants and retrieves gene information from NCBI.
 
 ## Installation
